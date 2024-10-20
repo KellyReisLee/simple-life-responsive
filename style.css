@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Ubuntu", sans-serif;
+}
+
+header {
+  text-align: center;
+  background-color: #f8f8f8;
+  padding: 2rem 0;
+
+}
+
+nav ul {
+  list-style: none;
+  display: flex;
+  justify-content: center;
+
+}
+
+nav li {
+  margin: 0 1rem;
+}
+
+nav a {}
+
+nav a:hover {}
