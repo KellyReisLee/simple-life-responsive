@@ -190,18 +190,7 @@ nav a:focus {
 
 
 /* Feature article */
-.article-feature {
-  display: flex;
-  flex-direction: column;
 
-}
-
-.display-inline {
-  display: flex;
-  justify-content: space-between;
-  margin-top: 1.7rem;
-  margin-bottom: 1.1rem;
-}
 
 .article-recent {
   display: flex;
@@ -209,20 +198,8 @@ nav a:focus {
 }
 
 .article-recent-content {
-  order: 2;
-}
-
-.article-recent-img {
-  order: 1;
-
-
-}
-
-.article-recent-img img {
   width: 100%;
 }
-
-
 
 
 @media (max-width: 675px) {
