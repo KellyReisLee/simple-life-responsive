@@ -9,12 +9,13 @@
 ## Screenshots
 
 <h3>Homepage</h3>
-<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%">
-<a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" width="200px"/></a>
+<a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" width="100px"/></a>
   
 --- 
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/2kCw66r/sample-life-mobile-homepage.png" alt="sample-life-mobile-homepage" border="0" width="200px"/></a>
-</div>
+
+<h3>About me</h3>
+<a href="https://ibb.co/sgNB8HP"><img src="https://i.ibb.co/sgNB8HP/about-me-desktop-tablet.png" alt="about-me-desktop-tablet" border="0" /></a>
+
 
 
 
