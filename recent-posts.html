@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Living the Simple Life</title>
+  <title>Recent-posts</title>
   <link rel="stylesheet" href="style.css">
   <link rel="shortcut icon" href="life.png" type="image/x-icon">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -15,7 +15,7 @@
 </head>
 
 <body>
-  <!-- Header -->
+
   <header>
     <div class="container container-nav">
       <div class="title">
@@ -24,38 +24,35 @@
       </div>
       <nav>
         <ul>
-          <li><a class="current-page" href="index.html">Home</a></li>
+          <li><a href="index.html">Home</a></li>
           <li><a href="#">About me </a></li>
-          <li><a href="recent-posts.html">Recent Posts</a></li>
+          <li><a class="current-page" href="recent-posts.html">Recent Posts</a></li>
         </ul>
 
       </nav>
     </div>
   </header>
 
-  <!-- Main content -->
+  <!-- Main container - Posts -->
   <div class="container container-main">
     <main role="main">
-      <article class="article-feature">
-        <div class="display-inline">
+      <article class="article-recent">
+        <div class="article-recent-content">
+          <h2 class="article-title">Finding simplicity in life</h2>
+          <p class="article-body">Life can get complicated really quickly, but it doesn't
+            have to be! There
+            are many ways to
+            simplify your life, a few of which we've explored in the past. This week we're
+            taking a bit of a approach
+            though, in how you can find simplicity in the life you already living.</p>
+          <a href="#" class="article-read-more">continue reading</a>
+        </div>
+        <div class="article-recent-img">
+          <img src="/img/life.jpg" alt="Food on a plate.">
           <p class="article-info">July 23, 2019 | 3 comments</p>
-          <h2 class="article-title-feature">Finding simplicity in life </h2>
 
         </div>
-        <img src="/img/life.jpg" alt="Study table" class="article-image">
-
-        <p class="article-body"><strong class="in-gray">Life can get complicated really quickly</strong>, but it doesn't
-          have to be! There
-          are many ways to
-          simplify your life,<a class="in-blue"> a few of which we've explored in the past</a>. This week we're
-          taking a bit of a approach
-          though, in how you can find simplicity in the life you already living.</p>
-        <a href="#" class="article-read-more"> continue reading</a>
-
       </article>
-      <hr>
-
-      <!-- Recent -->
       <article class="article-recent">
         <div class="article-recent-content">
           <h2 class="article-title">Keeping cooking simple </h2>
@@ -108,8 +105,8 @@
         </div>
 
       </article>
+
     </main>
-    <!-- Aside section -->
     <aside>
       <div class="sidebar-widget about-me">
         <h2 class="widget-title">ABOUT ME</h2>
@@ -139,13 +136,11 @@
       </div>
     </aside>
   </div>
-
   <!-- Footer -->
   <footer class="footer-section">
     <p class="title-footer">Living the Social Life</p>
     <p class="copyright">Copyright 2024</p>
   </footer>
-
 </body>
 
 </html>
