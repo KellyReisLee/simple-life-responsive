@@ -14,7 +14,7 @@
 --- 
 
 <h3>About me</h3>
-<a href="https://ibb.co/sgNB8HP"><img src="https://i.ibb.co/sgNB8HP/about-me-desktop-tablet.png" alt="about-me-desktop-tablet" border="0" /></a>
+<a href="https://ibb.co/sgNB8HP"><img src="https://i.ibb.co/j8QpnR5/about-me-desktop-tablet.png" alt="about-me-desktop-tablet" border="0" /></a>
 
 
 
