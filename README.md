@@ -9,28 +9,17 @@
 ## Screenshots
 
 <h3>Homepage</h3>
-<table height="200px>
-  <tr>
-    <td>
-      <a href="https://ibb.co/Xx5pjBb">
-        <img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" width="100px"/>
-      </a>
-    </td>
-    <td width="20"></td> <!-- Espaçamento -->
-    <td>
-      <a href="https://ibb.co/XxZ982y">
-        <img src="https://i.ibb.co/8gDJcKz/simple-life-tablet-homepage.png" alt="simple-life-tablet-homepage" width="100px"/>
-      </a>
-    </td>
-    <td width="20"></td> <!-- Espaçamento -->
-    <td>
-      <a href="https://imgbb.com/">
-        <img src="https://i.ibb.co/2kCw66r/sample-life-mobile-homepage.png" alt="sample-life-mobile-homepage" width="100px"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%">
+<a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" width="200px"/></a>
+  
+ --- 
+ 
+<a href="https://ibb.co/XxZ982y"><img src="https://i.ibb.co/8gDJcKz/simple-life-tablet-homepage.png" alt="simple-life-tablet-homepage" border="0" width= "200px"/></a>
+  
+---
 
+ <a href="https://imgbb.com/"><img src="https://i.ibb.co/2kCw66r/sample-life-mobile-homepage.png" alt="sample-life-mobile-homepage" border="0" width="200px"/></a>
+</div>
 
 
 
