@@ -10,7 +10,7 @@
 
 <h3>Homepage</h3>
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px; width: 100%">
 <a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" width="200px"/></a>
   
 <a href="https://ibb.co/XxZ982y"><img src="https://i.ibb.co/8gDJcKz/simple-life-tablet-homepage.png" alt="simple-life-tablet-homepage" border="0" width="200px"/></a>
