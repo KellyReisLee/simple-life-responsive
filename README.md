@@ -15,7 +15,7 @@
   
  --- 
  
-<a href="https://ibb.co/XxZ982y"><img src="https://i.ibb.co/8gDJcKz/simple-life-tablet-homepage.png" alt="simple-life-tablet-homepage" border="0" width="200px"/></a>
+<a href="https://ibb.co/XxZ982y"><img src="https://i.ibb.co/8gDJcKz/simple-life-tablet-homepage.png" alt="simple-life-tablet-homepage" border="0" width= "200px"/></a>
   
 ---
 
