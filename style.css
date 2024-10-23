@@ -17,8 +17,6 @@ h3 {
   font-weight: 400;
   color: #143774;
   margin: 0;
-
-
 }
 
 h1 {
@@ -28,8 +26,6 @@ h1 {
 a {
   color: #57a9d5;
   font-weight: bolder;
-
-
 }
 
 a:hover,
@@ -42,14 +38,15 @@ strong {
 }
 
 main {
-  width: 65%;
+  width: 75%;
 }
 
 aside {
   display: flex;
   flex-direction: column;
-  gap: 1rem;
-  width: 35%;
+  gap: 0.6rem;
+  width: 25%;
+  min-width: 250px;
 }
 
 article {
@@ -134,7 +131,7 @@ nav a:focus {
 .container-main {
   display: flex;
   justify-content: space-between;
-  gap: 1.3rem;
+  gap: 1rem;
 }
 
 .article-title {
@@ -230,10 +227,8 @@ nav a:focus {
 
 /* Widget */
 .sidebar-widget {
-  border: 2rem solid rgba(192, 192, 192, 0.4);
-  padding: 1rem 2rem;
-
-
+  border: 1.4rem solid rgba(192, 192, 192, 0.4);
+  padding: 1rem 1.3rem;
 }
 
 .about-me {
@@ -255,7 +250,6 @@ nav a:focus {
   margin-top: 1rem;
 }
 
-
 .widget-recent-post {
   display: flex;
   flex-direction: column;
@@ -273,9 +267,7 @@ nav a:focus {
 
 
 
-
-
-@media (max-width: 675px) {
+@media (max-width: 650px) {
   body {
     font-size: 0.87rem;
     line-height: 1.3rem;
@@ -302,7 +294,6 @@ nav a:focus {
   }
 
   .article-recent-content {
-
     gap: 2rem;
   }
 
@@ -361,9 +352,12 @@ nav a:focus {
 
   }
 
+}
 
-
-
-
+@media (min-width: 665px) and (max-width: 850px) {
+  .article-recent {
+    display: flex;
+    flex-direction: column;
+  }
 
 }
