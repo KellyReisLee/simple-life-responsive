@@ -9,17 +9,17 @@
 ## Screenshots
 
 <h3>Homepage</h3>
-<a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" width="200px"/></a>
+<a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" width="400px"/></a>
   
 --- 
 
 <h3>About me</h3>
-<a href="https://ibb.co/sgNB8HP"><img src="https://i.ibb.co/j8QpnR5/about-me-desktop-tablet.png" alt="about-me-desktop-tablet" border="0" width="200px"/></a>
+<a href="https://ibb.co/sgNB8HP"><img src="https://i.ibb.co/j8QpnR5/about-me-desktop-tablet.png" alt="about-me-desktop-tablet" border="0" width="400px"/></a>
 
 ---
 
 <h3>Recent Posts</h3>
-<a href="https://ibb.co/fCpyxtV"><img src="https://i.ibb.co/LCtcZ6D/recent-posts-desktop-html.png" alt="recent-posts-desktop-html" border="0" /></a>
+<a href="https://ibb.co/fCpyxtV"><img src="https://i.ibb.co/LCtcZ6D/recent-posts-desktop-html.png" alt="recent-posts-desktop-html" border="0" width="400px"/></a>
 
 ## Author
 
