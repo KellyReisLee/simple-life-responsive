@@ -9,15 +9,15 @@
 ## Screenshots
 
 <h3>Homepage</h3>
-<a href="https://freeimage.host/"><img src="https://ibb.co/XxZ982y" alt="first-page" border="0" /></a>
+<a href="https://ibb.co/Xx5pjBb"><img src="https://i.ibb.co/b5vLQhP/simple-life-desktop-homepage.png" alt="simple-life-desktop-homepage" border="0" /></a>
 
 ---
 
-<a href="https://freeimage.host/"><img src="https://ibb.co/Xx5pjBb" alt="first-page" border="0" /></a>
+<a href="https://ibb.co/XxZ982y"><img src="https://i.ibb.co/8gDJcKz/simple-life-tablet-homepage.png" alt="simple-life-tablet-homepage" border="0" /></a>
 
 ---
 
-<a href="https://freeimage.host/"><img src="https://ibb.co/Tg7ZTTG" alt="first-page" border="0" /></a>
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/2kCw66r/sample-life-mobile-homepage.png" alt="sample-life-mobile-homepage" border="0" /></a>
 
 ---
 
